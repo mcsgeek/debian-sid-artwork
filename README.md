@@ -8,7 +8,7 @@ This repository contains two related desktop themes featuring matching wallpaper
 
 ## Themes
 
-### 🔴 Debian Sid
+### 🔴 Debian Sid Edition
 
 A dark Debian Sid theme featuring:
 
@@ -18,7 +18,11 @@ A dark Debian Sid theme featuring:
 - Matching GRUB background
 - Matching Plymouth splash screen
 
-### 🔵 Debian Dell
+![Debian Sid Wallpaper](debian-sid/wallpaper.png)
+
+---
+
+### 🔵 Debian Dell Edition
 
 A variation of the same design created for my Dell laptop running Debian.
 
@@ -31,6 +35,8 @@ It includes:
 - Matching wallpaper
 - Matching GRUB background
 - Matching Plymouth splash screen
+
+![Debian Dell Wallpaper](debian-dell/wallpaper.png)
 
 ---
 
