@@ -40,7 +40,7 @@ It includes:
 
 ---
 
-### 🏴 Debian Sid Flag Artwork
+### 🏴 Debian Sid Flag Edition
 
 A Debian Sid flag theme featuring matching wallpaper, GRUB background, and Plymouth splash screen artwork.
 
