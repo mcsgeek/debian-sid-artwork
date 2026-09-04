@@ -40,6 +40,14 @@ It includes:
 
 ---
 
+### 🏴 Debian Sid Flag Artwork
+
+A Debian Sid flag theme featuring matching wallpaper, GRUB background, and Plymouth splash screen artwork.
+
+![Debian Sid Flag Wallpaper](debian-sid-flag/wallpaper.png)
+
+---
+
 ## KDE Plasma Launcher Icons
 
 Two matching KDE Plasma application launcher icons are included and may be used with either theme:
