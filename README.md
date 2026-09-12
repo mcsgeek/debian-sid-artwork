@@ -65,14 +65,19 @@ debian-sid-artwork/
 ├── LICENSE
 │
 ├── debian-sid/
-│   ├── debian-sid-wallpaper.png
-│   ├── debian-sid-grub.png
-│   └── debian-sid-plymouth.png
+│   ├── wallpaper.png
+│   ├── grub.png
+│   └── plymouth.png
+│
+├── debian-sid-flag/
+│   ├── wallpaper.png
+│   ├── grub.png
+│   └── plymouth.png
 │
 ├── debian-dell/
-│   ├── debian-dell-wallpaper.png
-│   ├── debian-dell-grub.png
-│   └── debian-dell-plymouth.png
+│   ├── wallpaper.png
+│   ├── grub.png
+│   └── plymouth.png
 │
 └── kde-launcher/
     ├── launcher-round.png
